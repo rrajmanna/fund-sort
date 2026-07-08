@@ -33,7 +33,7 @@ Detection threshold trades off precision against recall:
 
 ## Results
 
-<img src="figures/sample_waveforms.png" width="450">
+<img src="figures/spike_waveforms_ex.png" width="450">
 
 <img src="figures/kmeans_clustering.png" width="450">
 
