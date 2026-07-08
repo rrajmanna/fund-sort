@@ -1,6 +1,6 @@
 # fund-sort
 
-A spike sorting pipeline for extracellular neural recordings.
+A fundamental spike sorting pipeline for extracellular neural recordings.
 
 ## What is spike sorting?
 
