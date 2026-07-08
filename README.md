@@ -1,4 +1,4 @@
-# fund-sort
+# fund-spike-sort
 
 A fundamental spike sorting pipeline for extracellular neural recordings.
 
